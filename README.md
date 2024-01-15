@@ -4,7 +4,7 @@
 
 ## Acerca de mí
 - 💻 Programador con experiencia en backend y gustos por el frontend.
-- 🌐 Lenguajes: Java, SQL, JavaScript, HTML, CSS.
+- 🌐 Lenguajes: Java, SQL, HTML, CSS.
 - 🚀 Frameworks: Spring Boot.
   
 ## Contacto
