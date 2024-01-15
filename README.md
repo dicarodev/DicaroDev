@@ -1,6 +1,6 @@
 ## Hola, soy Diego 👋
 
-¡Bienvenido a mi perfil de GitHub! Soy un apasionado programador con un enfoque principal en el backend, aunque también disfruto trabajando en el frontend. Mi experiencia abarca una variedad de lenguajes, con especial énfasis en Java y SQL, además de proyectos en Android.
+¡Bienvenido a mi perfil de GitHub! Soy un apasionado programador con un enfoque principal en el backend, aunque también disfruto trabajando en el frontend. Mi proposito es aprender una variedad de lenguajes, con especial énfasis en Java y SQL, además de proyectos en Android.
 
 ## Acerca de mí
 - 💻 Programador con experiencia en backend y gustos por el frontend.
