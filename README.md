@@ -9,6 +9,7 @@
   
 ## Contacto
 - LinkedIn: [Mi perfil de LinkedIn](https://www.linkedin.com/in/diego-carramolino-romero/)
+- Twitch: [Mi perfil de Twitch](https://twitch.tv/dicarodev)
 
 No dudes en explorar mis repositorios y conectar conmigo a través de LinkedIn. ¡Estoy abierto a colaboraciones y preguntas relacionadas con el desarrollo!
 
