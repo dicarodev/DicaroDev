@@ -1,11 +1,11 @@
 ## Hola, soy Diego 👋
 
-¡Bienvenido a mi perfil de GitHub! Soy un apasionado programador con un enfoque principal en el backend, aunque también disfruto trabajando en el frontend. Mi propósito es aprender una variedad de lenguajes, con especial énfasis en Java y SQL, además de proyectos en Android.
+¡Bienvenido a mi perfil de GitHub! Soy un apasionado programador con un enfoque principal en el backend, aunque también disfruto trabajando en el frontend. Mi propósito es aprender una variedad de lenguajes, con especial énfasis en Java, además de proyectos en Android.
 
 ## Acerca de mí
 - 💻 Programador con experiencia en backend y gustos por el frontend.
-- 🌐 Lenguajes: Java, SQL, Android.
-- 🚀 Frameworks: Spring Boot.
+- 🌐 Lenguajes: Java, SQL.
+- 🚀 Frameworks: Spring.
   
 ## Contacto
 - LinkedIn: [Diego Carramolino](https://www.linkedin.com/in/diego-carramolino-romero/)
