@@ -4,7 +4,7 @@
 
 ## Acerca de mí
 - 💻 Programador con experiencia en backend.
-- 🌐 Lenguajes: Java, SQL.
+- 🌐 Lenguajes: Java, SQL y PL/SQL.
 - 🚀 Frameworks: Spring y Oracle APEX.
   
 ## Contacto
